@@ -147,8 +147,6 @@ This project is licensed under the MIT License.
 
 Vaishnavi Ravi
 
-Pre-Final Year Information Technology Student
-
 Passionate about Full Stack Development, Artificial Intelligence, Machine Learning, and Data Analytics.
 
 ⭐ If you found this project useful, consider giving it a star.
